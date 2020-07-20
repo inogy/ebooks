@@ -15,6 +15,8 @@ with this eBook or online at www.gutenberg.net -->
 **     Please follow the copyright guidelines in this file.     **
 
 
+
+
 Title: Metamorphosis
 
 Author: Franz Kafka
@@ -39,14 +41,14 @@ Copyright (C) 2002 David Wyllie.
 
 
 
-  Metamorphosis
-  Franz Kafka
+#   Metamorphosis
+##   Franz Kafka
 
-Translated by David Wyllie
+####  Translated by David Wyllie
 
 
 
-I
+# I
 
 
 One morning, when Gregor Samsa woke from troubled dreams, he found
