@@ -3,13 +3,13 @@
 ### e-Book: http://www.gutenberg.org/cache/epub/5200/pg5200.txt
 ### Audio Book : https://www.gutenberg.org/files/26298/mp3/26298-03.mp3
 
-The Project Gutenberg EBook of Metamorphosis, by Franz Kafka
-Translated by David Wyllie.
+<!--- The Project Gutenberg EBook of Metamorphosis, by Franz Kafka
+  Translated by David Wyllie.
 
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.net
+ This eBook is for the use of anyone anywhere at no cost and with
+ almost no restrictions whatsoever.  You may copy it, give it away or
+ re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net -->
 
 ** This is a COPYRIGHTED Project Gutenberg eBook, Details Below **
 **     Please follow the copyright guidelines in this file.     **
