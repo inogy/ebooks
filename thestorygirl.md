@@ -89,13 +89,14 @@ CHAPTER XXXII. THE OPENING OF THE BLUE CHEST
 
 
 
-THE STORY GIRL
+##  THE STORY GIRL
 
 
 
 
 
-CHAPTER I. THE HOME OF OUR FATHERS
+### CHAPTER I. THE HOME OF OUR FATHERS
+
 “I do like a road, because you can be always wondering what is at the end of it.”
 
 The Story Girl said that once upon a time. Felix and I, on the May morning when we left Toronto for Prince Edward Island, had not then heard her say it, and, indeed, were but barely aware of the existence of such a person as the Story Girl. We did not know her at all under that name. We knew only that a cousin, Sara Stanley, whose mother, our Aunt Felicity, was dead, was living down on the Island with Uncle Roger and Aunt Olivia King, on a farm adjoining the old King homestead in Carlisle. We supposed we should get acquainted with her when we reached there, and we had an idea, from Aunt Olivia’s letters to father, that she would be quite a jolly creature. Further than that we did not think about her. We were more interested in Felicity and Cecily and Dan, who lived on the homestead and would therefore be our roofmates for a season.
@@ -201,7 +202,8 @@ The girls’ door shut with a bang. Silence fell over the house. We drifted into
 
 
 
-CHAPTER II. A QUEEN OF HEARTS
+###  CHAPTER II. A QUEEN OF HEARTS
+
 I wakened shortly after sunrise. The pale May sunshine was showering through the spruces, and a chill, inspiring wind was tossing the boughs about.
 
 “Felix, wake up,” I whispered, shaking him.
