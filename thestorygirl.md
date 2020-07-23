@@ -10,11 +10,17 @@ Source : http://www.gutenberg.org/files/5342/5342-h/5342-h.htm
 #### “Kilmeny of the Orchard,” etc.
 
 
-    >            “She was a form of life and light
-    >           That seen, became a part of sight,
-    >           And rose, where’er I turn’d mine eye,
-    >           The morning-star of Memory!”
-    >            —Byron.
+>            “She was a form of life and light
+>           That seen, became a part of sight,
+>           And rose, where’er I turn’d mine eye,
+>           The morning-star of Memory!”
+>            —Byron.
+
+TO MY COUSIN
+
+Frederica E. Campbell
+
+IN REMEMBRANCE OF OLD DAYS, OLD DREAMS, AND OLD LAUGHTER
 
 
 CONTENTS
