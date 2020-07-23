@@ -7,7 +7,7 @@ Source : http://www.gutenberg.org/files/5342/5342-h/5342-h.htm
 ### By L. M. Montgomery
 
 #### Author of “Anne of Green Gables,” “Anne of Avonlea,"
-#### “Kilmeny of the Orchard,” etc.
+* #### “Kilmeny of the Orchard,” etc.
 
 
 >            “She was a form of life and light
@@ -33,63 +33,63 @@ Source : http://www.gutenberg.org/files/5342/5342-h/5342-h.htm
 
 * CHAPTER III. LEGENDS OF THE OLD ORCHARD
 
-CHAPTER IV. THE WEDDING VEIL OF THE PROUD PRINCESS
+* CHAPTER IV. THE WEDDING VEIL OF THE PROUD PRINCESS
 
-CHAPTER V. PETER GOES TO CHURCH
+* CHAPTER V. PETER GOES TO CHURCH
 
-CHAPTER VI. THE MYSTERY OF GOLDEN MILESTONE
+* CHAPTER VI. THE MYSTERY OF GOLDEN MILESTONE
 
-CHAPTER VII. HOW BETTY SHERMAN WON A HUSBAND
+* CHAPTER VII. HOW BETTY SHERMAN WON A HUSBAND
 
-CHAPTER VIII. A TRAGEDY OF CHILDHOOD
+* CHAPTER VIII. A TRAGEDY OF CHILDHOOD
 
-CHAPTER IX. MAGIC SEED
+* CHAPTER IX. MAGIC SEED
 
-CHAPTER X. A DAUGHTER OF EVE
+* CHAPTER X. A DAUGHTER OF EVE
 
-CHAPTER XI. THE STORY GIRL DOES PENANCE
+* CHAPTER XI. THE STORY GIRL DOES PENANCE
 
-CHAPTER XII. THE BLUE CHEST OF RACHEL WARD
+* CHAPTER XII. THE BLUE CHEST OF RACHEL WARD
 
-CHAPTER XIII. AN OLD PROVERB WITH A NEW MEANING
+* CHAPTER XIII. AN OLD PROVERB WITH A NEW MEANING
 
-CHAPTER XIV. FORBIDDEN FRUIT
+* CHAPTER XIV. FORBIDDEN FRUIT
 
-CHAPTER XV. A DISOBEDIENT BROTHER
+* CHAPTER XV. A DISOBEDIENT BROTHER
 
-CHAPTER XVI. THE GHOSTLY BELL
+* CHAPTER XVI. THE GHOSTLY BELL
 
-CHAPTER XVII. THE PROOF OF THE PUDDING
+* CHAPTER XVII. THE PROOF OF THE PUDDING
 
-CHAPTER XVIII. HOW KISSING WAS DISCOVERED
+* CHAPTER XVIII. HOW KISSING WAS DISCOVERED
 
-CHAPTER XIX. A DREAD PROPHECY
+* CHAPTER XIX. A DREAD PROPHECY
 
-CHAPTER XX. THE JUDGMENT SUNDAY
+* CHAPTER XX. THE JUDGMENT SUNDAY
 
-CHAPTER XXI. DREAMERS OF DREAMS
+* CHAPTER XXI. DREAMERS OF DREAMS
 
-CHAPTER XXII. THE DREAM BOOKS
+* CHAPTER XXII. THE DREAM BOOKS
 
-CHAPTER XXIII. SUCH STUFF AS DREAMS ARE MADE ON
+* CHAPTER XXIII. SUCH STUFF AS DREAMS ARE MADE ON
 
-CHAPTER XXIV. THE BEWITCHMENT OF PAT
+* CHAPTER XXIV. THE BEWITCHMENT OF PAT
 
-CHAPTER XXV. A CUP OF FAILURE
+* CHAPTER XXV. A CUP OF FAILURE
 
-CHAPTER XXVI. PETER MAKES AN IMPRESSION
+* CHAPTER XXVI. PETER MAKES AN IMPRESSION
 
-CHAPTER XXVII. THE ORDEAL OF BITTER APPLES
+* CHAPTER XXVII. THE ORDEAL OF BITTER APPLES
 
-CHAPTER XXVIII. THE TALE OF THE RAINBOW BRIDGE
+* CHAPTER XXVIII. THE TALE OF THE RAINBOW BRIDGE
 
-CHAPTER XXIX. THE SHADOW FEARED OF MAN
+* CHAPTER XXIX. THE SHADOW FEARED OF MAN
 
-CHAPTER XXX. A COMPOUND LETTER
+* CHAPTER XXX. A COMPOUND LETTER
 
-CHAPTER XXXI. ON THE EDGE OF LIGHT AND DARK
+* CHAPTER XXXI. ON THE EDGE OF LIGHT AND DARK
 
-CHAPTER XXXII. THE OPENING OF THE BLUE CHEST
+* CHAPTER XXXII. THE OPENING OF THE BLUE CHEST
 
 
 
@@ -105,7 +105,7 @@ CHAPTER XXXII. THE OPENING OF THE BLUE CHEST
 
 “I do like a road, because you can be always wondering what is at the end of it.”
 
-The Story Girl said that once upon a time. Felix and I, on the May morning when we left Toronto for Prince Edward Island, had not then heard her say it, and, indeed, were but barely aware of the existence of such a person as the Story Girl. We did not know her at all under that name. We knew only that a cousin, Sara Stanley, whose mother, our Aunt Felicity, was dead, was living down on the Island with Uncle Roger and Aunt Olivia King, on a farm adjoining the old King homestead in Carlisle. We supposed we should get acquainted with her when we reached there, and we had an idea, from Aunt Olivia’s letters to father, that she would be quite a jolly creature. Further than that we did not think about her. We were more interested in Felicity and Cecily and Dan, who lived on the homestead and would therefore be our roofmates for a season.
+The Story Girl said that once upon a time. Felix and I, on the May morning when we left Toronto for Prince Edward Island, had not then heard her say it, and, indeed, were but barely aware of the existence of such a person as the Story Girl. We did not know her at all under that name. We knew only that a cousin, Sara Stanley, whose mother, our Aunt Felicity, was dead, was living down on the Island with Uncle Roger and Aunt Olivia King, on a farm adjoining the old King homestead in Carlisle. We supposed we should get acquainted with her when we reached there, and we had an idea, from Aunt Olivia’s letters to father, that she would be quite a jolly creature. Further than that we did not think about her. We were more interested in Felicity and Cecily and Dan, who lived on the homestead and would therefore be our roommates for a season.
 
 But the spirit of the Story Girl’s yet unuttered remark was thrilling in our hearts that morning, as the train pulled out of Toronto. We were faring forth on a long road; and, though we had some idea what would be at the end of it, there was enough glamour of the unknown about it to lend a wonderful charm to our speculations concerning it.
 
@@ -309,7 +309,7 @@ The latch of the gate clicked under the Story Girl’s hand, and the next moment
 
 
 
-CHAPTER III. LEGENDS OF THE OLD ORCHARD
+### CHAPTER III. LEGENDS OF THE OLD ORCHARD
 Outside of the orchard the grass was only beginning to grow green; but here, sheltered by the spruce hedges from uncertain winds and sloping to southern suns, it was already like a wonderful velvet carpet; the leaves on the trees were beginning to come out in woolly, grayish clusters; and there were purple-pencilled white violets at the base of the Pulpit Stone.
 
 “It’s all just as father described it,” said Felix with a blissful sigh, “and there’s the well with the Chinese roof.”
@@ -461,7 +461,7 @@ Dan did not come down until breakfast was half over, and Aunt Janet talked to hi
 
 
 
-CHAPTER IV. THE WEDDING VEIL OF THE PROUD PRINCESS
+### CHAPTER IV. THE WEDDING VEIL OF THE PROUD PRINCESS
 When we had lived for a fortnight in Carlisle we belonged there, and the freedom of all its small fry was conferred on us. With Peter and Dan, with Felicity and Cecily and the Story Girl, with pale, gray-eyed little Sara Ray, we were boon companions. We went to school, of course; and certain home chores were assigned to each of us for the faithful performance of which we were held responsible. But we had long hours for play. Even Peter had plenty of spare time when the planting was over.
 
 We got along very well with each other in the main, in spite of some minor differences of opinion. As for the grown-up denizens of our small world, they suited us also.
@@ -587,7 +587,7 @@ The weird spell of the tale rested on us for some moments after the Story Girl h
 
 
 
-CHAPTER V. PETER GOES TO CHURCH
+### CHAPTER V. PETER GOES TO CHURCH
 There was no Sunday School the next afternoon, as superintendent and teachers wished to attend a communion service at Markdale. The Carlisle service was in the evening, and at sunset we were waiting at Uncle Alec’s front door for Peter and the Story Girl.
 
 None of the grown-ups were going to church. Aunt Olivia had a sick headache and Uncle Roger stayed home with her. Aunt Janet and Uncle Alec had gone to the Markdale service and had not yet returned.
@@ -741,7 +741,7 @@ They went away together hand in hand, children-wise, up the lane of spruces cros
 
 
 
-CHAPTER VI. THE MYSTERY OF GOLDEN MILESTONE
+### CHAPTER VI. THE MYSTERY OF GOLDEN MILESTONE
 Paddy was smeared with medicated lard the next day, all of us assisting at the rite, although the Story Girl was high priestess. Then, out of regard for mats and cushions, he was kept in durance vile in the granary until he had licked his fur clean. This treatment being repeated every day for a week, Pat recovered his usual health and spirits, and our minds were set at rest to enjoy the next excitement—collecting for a school library fund.
 
 Our teacher thought it would be an excellent thing to have a library in connection with the school; and he suggested that each of the pupils should try to see how much money he or she could raise for the project during the month of June. We might earn it by honest toil, or gather it in by contributions levied on our friends.
@@ -863,7 +863,7 @@ When we got away we compared notes, and found that we all liked him—and this, 
 
 
 
-CHAPTER VII. HOW BETTY SHERMAN WON A HUSBAND
+### CHAPTER VII. HOW BETTY SHERMAN WON A HUSBAND
 The rest of us did not share the Story Girl’s enthusiasm regarding our call on Mr. Campbell. We secretly dreaded it. If, as was said, he detested children, who knew what sort of a reception we might meet?
 
 Mr. Campbell was a rich, retired farmer, who took life easily. He had visited New York and Boston, Toronto and Montreal; he had even been as far as the Pacific coast. Therefore he was regarded in Carlisle as a much travelled man; and he was known to be “well read” and intelligent. But it was also known that Mr. Campbell was not always in a good humour. If he liked you there was nothing he would not do for you; if he disliked you—well, you were not left in ignorance of it. In short, we had the impression that Mr. Campbell resembled the famous little girl with the curl in the middle of her forehead. “When he was good, he was very, very good, and when he was bad he was horrid.” What if this were one of his horrid days?
@@ -1013,7 +1013,7 @@ That night we heard Felicity talking to Cecily in their room.
 
 
 
-CHAPTER VIII. A TRAGEDY OF CHILDHOOD
+### CHAPTER VIII. A TRAGEDY OF CHILDHOOD
 The Story Girl went to Charlottetown for a week in June to visit Aunt Louisa. Life seemed very colourless without her, and even Felicity admitted that it was lonesome. But three days after her departure Felix told us something on the way home from school which lent some spice to existence immediately.
 
 “What do you think?” he said in a very solemn, yet excited, tone. “Jerry Cowan told me at recess this afternoon that he HAD SEEN A PICTURE OF GOD—that he has it at home in an old, red-covered history of the world, and has looked at it OFTEN.”
@@ -1203,7 +1203,7 @@ We went. In spite of new disappointments and old heartbreaks we had appetites. A
 
 
 
-CHAPTER IX. MAGIC SEED
+### CHAPTER IX. MAGIC SEED
 When the time came to hand in our collections for the library fund Peter had the largest—three dollars. Felicity was a good second with two and a half. This was simply because the hens had laid so well.
 
 “If you’d had to pay father for all the extra handfuls of wheat you’ve fed to those hens, Miss Felicity, you wouldn’t have so much,” said Dan spitefully.
@@ -1287,7 +1287,7 @@ We were not surprised to find that Billy Robinson’s contribution to the librar
 
 
 
-CHAPTER X. A DAUGHTER OF EVE
+### CHAPTER X. A DAUGHTER OF EVE
 “I hate the thought of growing up,” said the Story Girl reflectively, “because I can never go barefooted then, and nobody will ever see what beautiful feet I have.”
 
 She was sitting, the July sunlight, on the ledge of the open hayloft window in Uncle Roger’s big barn; and the bare feet below her print skirt WERE beautiful. They were slender and shapely and satin smooth with arched insteps, the daintiest of toes, and nails like pink shells.
@@ -1296,7 +1296,7 @@ We were all in the hayloft. The Story Girl had been telling us a tale
 
     “Of old, unhappy, far-off things,
     And battles long ago.”
- 
+
 Felicity and Cecily were curled up in a corner, and we boys sprawled idly on the fragrant, sun-warm heaps. We had “stowed” the hay in the loft that morning for Uncle Roger, so we felt that we had earned the right to loll on our sweet-smelling couch. Haylofts are delicious places, with just enough of shadow and soft, uncertain noises to give an agreeable tang of mystery. The swallows flew in and out of their nest above our heads, and whenever a sunbeam fell through a chink the air swarmed with golden dust. Outside of the loft was a vast, sunshiny gulf of blue sky and mellow air, wherein floated argosies of fluffy cloud, and airy tops of maple and spruce.
 
 Pat was with us, of course, prowling about stealthily, or making frantic, bootless leaps at the swallows. A cat in a hayloft is a beautiful example of the eternal fitness of things. We had not heard of this fitness then, but we all felt that Paddy was in his own place in a hayloft.
@@ -1450,7 +1450,7 @@ We had to go up Sara Ray’s lane with her to her very door, for she was afraid 
 
 
 
-CHAPTER XI. THE STORY GIRL DOES PENANCE
+### CHAPTER XI. THE STORY GIRL DOES PENANCE
 Ten days later, Aunt Olivia and Uncle Roger went to town one evening, to remain over night, and the next day. Peter and the Story Girl were to stay at Uncle Alec’s during their absence.
 
 We were in the orchard at sunset, listening to the story of King Cophetua and the beggar maid—all of us, except Peter, who was hoeing turnips, and Felicity, who had gone down the hill on an errand to Mrs. Ray.
@@ -1586,7 +1586,7 @@ Which seemed to settle the question of moonshine dresses effectually.
 
 
 
-CHAPTER XII. THE BLUE CHEST OF RACHEL WARD
+### CHAPTER XII. THE BLUE CHEST OF RACHEL WARD
 “It’s utterly out of the question,” said Aunt Janet seriously. When Aunt Janet said seriously that anything was out of the question it meant that she was thinking about it, and would probably end up by doing it. If a thing really was out of the question she merely laughed and refused to discuss it at all.
 
 The particular matter in or out of the question that opening day of August was a project which Uncle Edward had recently mooted. Uncle Edward’s youngest daughter was to be married; and Uncle Edward had written over, urging Uncle Alec, Aunt Janet and Aunt Olivia to go down to Halifax for the wedding and spend a week there.
@@ -1694,7 +1694,7 @@ With that we went to bed, and slept as soundly as if tragedies of blue chests an
 
 
 
-CHAPTER XIII. AN OLD PROVERB WITH A NEW MEANING
+### CHAPTER XIII. AN OLD PROVERB WITH A NEW MEANING
 It was half-past five when we boys got up the next morning. We were joined on the stairs by Felicity, yawning and rosy.
 
 “Oh, dear me, I overslept myself. Uncle Roger wanted breakfast at six. Well, I suppose the fire is on anyhow, for the Story Girl is up. I guess she got up early to knead the bread. She couldn’t sleep all night for worrying over it.”
@@ -1794,7 +1794,7 @@ When the last buggy had driven away, Felicity set a batch of bread, and the rest
 
 
 
-CHAPTER XIV. FORBIDDEN FRUIT
+### CHAPTER XIV. FORBIDDEN FRUIT
 We were all, with the exception of Uncle Roger, more or less grumpy in the household of King next day. Perhaps our nerves had been upset by the excitement attendant on Jimmy Patterson’s disappearance. But it is more likely that our crankiness was the result of the supper we had eaten the previous night. Even children cannot devour mince pie, and cold fried pork ham, and fruit cake before going to bed with entire impunity. Aunt Janet had forgotten to warn Uncle Roger to keep an eye on our bedtime snacks, and we ate what seemed good unto us.
 
 Some of us had frightful dreams, and all of us carried chips on our shoulders at breakfast. Felicity and Dan began a bickering which they kept up the entire day. Felicity had a natural aptitude for what we called “bossing,” and in her mother’s absence she deemed that she had a right to rule supreme. She knew better than to make any attempt to assert authority over the Story Girl, and Felix and I were allowed some length of tether; but Cecily, Dan, and Peter were expected to submit dutifully to her decrees. In the main they did; but on this particular morning Dan was plainly inclined to rebel. He had had time to grow sore over the things that Felicity had said to him when Jimmy Patterson was thought lost, and he began the day with a flatly expressed determination that he was not going to let Felicity rule the roost.
@@ -1922,7 +1922,7 @@ We all felt that way.
 
 
 
-CHAPTER XV. A DISOBEDIENT BROTHER
+### CHAPTER XV. A DISOBEDIENT BROTHER
 Dan was his own man again in the morning, though rather pale and weak; he wanted to get up, but Cecily ordered him to stay in bed. Fortunately Felicity forgot to repeat the command, so Dan did stay in bed. Cecily carried his meals to him, and read a Henty book to him all her spare time. The Story Girl went up and told him wondrous tales; and Sara Ray brought him a pudding she had made herself. Sara’s intentions were good, but the pudding—well, Dan fed most of it to Paddy, who had curled himself up at the foot of the bed, giving the world assurance of a cat by his mellifluous purring.
 
 “Ain’t he just a great old fellow?” said Dan. “He knows I’m kind of sick, just as well as a human. He never pays no attention to me when I’m well.”
@@ -2066,7 +2066,7 @@ That last question was the most unkindest cut of all. Felicity could have forgiv
 
 
 
-CHAPTER XVI. THE GHOSTLY BELL
+### CHAPTER XVI. THE GHOSTLY BELL
 Friday was a comfortable day in the household of King. Everybody was in good humour. The Story Girl sparkled through several tales that ranged from the afrites and jinns of Eastern myth, through the piping days of chivalry, down to the homely anecdotes of Carlisle workaday folks. She was in turn an Oriental princess behind a silken veil, the bride who followed her bridegroom to the wars of Palestine disguised as a page, the gallant lady who ransomed her diamond necklace by dancing a coranto with a highwayman on a moonlit heath, and “Buskirk’s girl” who joined the Sons and Daughters of Temperance “just to see what was into it;” and in each impersonation she was so thoroughly the thing impersonated that it was a matter of surprise to us when she emerged from each our own familiar Story Girl again.
 
 Cecily and Sara Ray found a “sweet” new knitted lace pattern in an old magazine and spent a happy afternoon learning it and “talking secrets.” Chancing—accidentally, I vow—to overhear certain of these secrets, I learned that Sara Ray had named an apple for Johnny Price—“and, Cecily, true’s you live, there was eight seeds in it, and you know eight means ‘they both love’ “—while Cecily admitted that Willy Fraser had written on his slate and showed it to her,
@@ -2222,7 +2222,7 @@ We were all “dreadful tired,” for this was the third night of late hours and
 
 
 
-CHAPTER XVII. THE PROOF OF THE PUDDING
+### CHAPTER XVII. THE PROOF OF THE PUDDING
 Felicity was cumbered with many cares the next morning. For one thing, the whole house must be put in apple pie order; and for another, an elaborate supper must be prepared for the expected return of the travellers that night. Felicity devoted her whole attention to this, and left the secondary preparation of the regular meals to Cecily and the Story Girl. It was agreed that the latter was to make a cornmeal pudding for dinner.
 
 In spite of her disaster with the bread, the Story Girl had been taking cooking lessons from Felicity all the week, and getting on tolerably well, although, mindful of her former mistake, she never ventured on anything without Felicity’s approval. But Felicity had no time to oversee her this morning.
@@ -2308,7 +2308,7 @@ The threat was effectual. Never did we mention that unholy pudding. But the Stor
 
 
 
-CHAPTER XVIII. HOW KISSING WAS DISCOVERED
+### CHAPTER XVIII. HOW KISSING WAS DISCOVERED
 An August evening, calm, golden, dewless, can be very lovely. At sunset, Felicity, Cecily, and Sara Ray, Dan, Felix, and I were in the orchard, sitting on the cool grasses at the base of the Pulpit Stone. In the west was a field of crocus sky over which pale cloud blossoms were scattered.
 
 Uncle Roger had gone to the station to meet the travellers, and the dining-room table was spread with a feast of fat things.
@@ -2446,7 +2446,7 @@ There were times when one couldn’t help liking Uncle Roger.
 
 
 
-CHAPTER XIX. A DREAD PROPHECY
+### CHAPTER XIX. A DREAD PROPHECY
 “I’ve got to go and begin stumping out the elderberry pasture this afternoon,” said Peter dolefully. “I tell you it’s a tough job. Mr. Roger might wait for cool weather before he sets people to stumping out elderberries, and that’s a fact.”
 
 “Why don’t you tell him so?” asked Dan.
@@ -2720,7 +2720,7 @@ Peter resolved to stay all night with us, too, not troubling himself about anybo
 
 
 
-CHAPTER XX. THE JUDGMENT SUNDAY
+### CHAPTER XX. THE JUDGMENT SUNDAY
 Sunday morning broke, dull and gray. The rain had ceased, but the clouds hung dark and brooding above a world which, in its windless calm, following the spent storm-throe, seemed to us to be waiting “till judgment spoke the doom of fate.” We were all up early. None of us, it appeared, had slept well, and some of us not at all. The Story Girl had been among the latter, and she looked very pale and wan, with black shadows under her deep-set eyes. Peter, however, had slept soundly enough after twelve o’clock.
 
 “When you’ve been stumping out elderberries all the afternoon it’ll take more than the Judgment Day to keep you awake all night,” he said. “But when I woke up this morning it was just awful. I’d forgot it for a moment, and then it all came back with a rush, and I was worse scared than before.”
@@ -2856,7 +2856,7 @@ Accordingly, we heard it the next morning in the orchard.
 
 
 
-CHAPTER XXI. DREAMERS OF DREAMS
+### CHAPTER XXI. DREAMERS OF DREAMS
 August went out and September came in. Harvest was ended; and though summer was not yet gone, her face was turned westering. The asters lettered her retreating footsteps in a purple script, and over the hills and valleys hung a faint blue smoke, as if Nature were worshipping at her woodland altar. The apples began to burn red on the bending boughs; crickets sang day and night; squirrels chattered secrets of Polichinelle in the spruces; the sunshine was as thick and yellow as molten gold; school opened, and we small denizens of the hill farms lived happy days of harmless work and necessary play, closing in nights of peaceful, undisturbed slumber under a roof watched over by autumnal stars.
 
 At least, our slumbers were peaceful and undisturbed until our orgy of dreaming began.
@@ -2978,7 +2978,7 @@ Instantly we all saw ourselves and each other by inner vision, old and gray—al
 
 
 
-CHAPTER XXII. THE DREAM BOOKS
+### CHAPTER XXII. THE DREAM BOOKS
 The next day the Story Girl coaxed Uncle Roger to take her to Markdale, and there she bought our dream books. They were ten cents apiece, with ruled pages and mottled green covers. My own lies open beside me as I write, its yellowed pages inscribed with the visions that haunted my childish slumbers on those nights of long ago.
 
 On the cover is pasted a lady’s visiting card, on which is written, “The Dream Book of Beverley King.” Cecily had a packet of visiting cards which she was hoarding against the day when she would be grown up and could put the calling etiquette of the Family Guide into practice; but she generously gave us all one apiece for the covers of our dream books.
@@ -3078,7 +3078,7 @@ And that, of course, was all that really mattered. Grown people were so strangel
 
 
 
-CHAPTER XXIII. SUCH STUFF AS DREAMS ARE MADE ON
+### CHAPTER XXIII. SUCH STUFF AS DREAMS ARE MADE ON
 Peter took Dan and me aside one evening, as we were on our way to the orchard with our dream books, saying significantly that he wanted our advice. Accordingly, we went round to the spruce wood, where the girls would not see us to the rousing of their curiosity, and then Peter told us of his dilemma.
 
 “Last night I dreamed I was in church,” he said. “I thought it was full of people, and I walked up the aisle to your pew and set down, as unconcerned as a pig on ice. And then I found that I hadn’t a stitch of clothes on—NOT ONE BLESSED STITCH. Now”—Peter dropped his voice—“what is bothering me is this—would it be proper to tell a dream like that before the girls?”
@@ -3212,7 +3212,7 @@ This was my first inkling of what I was to understand more fully in later years.
 
 
 
-CHAPTER XXIV. THE BEWITCHMENT OF PAT
+### CHAPTER XXIV. THE BEWITCHMENT OF PAT
 We were all in the doleful dumps—at least, all we “young fry” were, and even the grown-ups were sorry and condescended to take an interest in our troubles. Pat, our own, dear, frolicsome Paddy, was sick again—very, very sick.
 
 On Friday he moped and refused his saucer of new milk at milking time. The next morning he stretched himself down on the platform by Uncle Roger’s back door, laid his head on his black paws, and refused to take any notice of anything or anybody. In vain we stroked and entreated and brought him tidbits. Only when the Story Girl caressed him did he give one plaintive little mew, as if to ask piteously why she could not do something for him. At that Cecily and Felicity and Sara Ray all began crying, and we boys felt choky. Indeed, I caught Peter behind Aunt Olivia’s dairy later in the day, and if ever a boy had been crying I vow that boy was Peter. Nor did he deny it when I taxed him with it, but he would not give in that he was crying about Paddy. Nonsense!
@@ -3453,7 +3453,7 @@ Thus faith, superstition, and incredulity strove together amongst us, as in all 
 
 
 
-CHAPTER XXV. A CUP OF FAILURE
+### CHAPTER XXV. A CUP OF FAILURE
 One warm Sunday evening in the moon of golden-rod, we all, grown-ups and children, were sitting in the orchard by the Pulpit Stone singing sweet old gospel hymns. We could all sing more or less, except poor Sara Ray, who had once despairingly confided to me that she didn’t know what she’d ever do when she went to heaven, because she couldn’t sing a note.
 
 That whole scene comes out clearly for me in memory—the arc of primrose sky over the trees behind the old house, the fruit-laden boughs of the orchard, the bank of golden-rod, like a wave of sunshine, behind the Pulpit Stone, the nameless colour seen on a fir wood in a ruddy sunset. I can see Uncle Alec’s tired, brilliant, blue eyes, Aunt Janet’s wholesome, matronly face, Uncle Roger’s sweeping blond beard and red cheeks, and Aunt Olivia’s full-blown beauty. Two voices ring out for me above all others in the music that echoes through the halls of recollection. Cecily’s sweet and silvery, and Uncle Alec’s fine tenor. “If you’re a King, you sing,” was a Carlisle proverb in those days. Aunt Julia had been the flower of the flock in that respect and had become a noted concert singer. The world had never heard of the rest. Their music echoed only along the hidden ways of life, and served but to lighten the cares of the trivial round and common task.
@@ -3549,7 +3549,7 @@ Dan was neither the prophet nor the son of a prophet, but he had the second sigh
 
 
 
-CHAPTER XXVI. PETER MAKES AN IMPRESSION
+### CHAPTER XXVI. PETER MAKES AN IMPRESSION
 Peter’s turn came next. He did not write his sermon out. That, he averred, was too hard work. Nor did he mean to take a text.
 
 “Why, who ever heard of a sermon without a text?” asked Felix blankly.
@@ -3711,7 +3711,7 @@ But, if we could not pass the ordeal, we got any amount of fun out of it, at lea
 
 
 
-CHAPTER XXVII. THE ORDEAL OF BITTER APPLES
+### CHAPTER XXVII. THE ORDEAL OF BITTER APPLES
 I could never understand why Felix took Peter’s success in the Ordeal of Bitter Apples so much to heart. He had not felt very keenly over the matter of the sermons, and certainly the mere fact that Peter could eat sour apples without making faces did not cast any reflection on the honour or ability of the other competitors. But to Felix everything suddenly became flat, stale, and unprofitable, because Peter continued to hold the championship of bitter apples. It haunted his waking hours and obsessed his nights. I heard him talking in his sleep about it. If anything could have made him thin the way he worried over this matter would have done it.
 
 For myself, I cared not a groat. I had wished to be successful in the sermon contest, and felt sore whenever I thought of my failure. But I had no burning desire to eat sour apples without grimacing, and I did not sympathize over and above with my brother. When, however, he took to praying about it, I realized how deeply he felt on the subject, and hoped he would be successful.
@@ -3927,7 +3927,7 @@ Nevertheless, we all felt a little of the sadness of the waning year. There was 
 
 
 
-CHAPTER XXVIII. THE TALE OF THE RAINBOW BRIDGE
+### CHAPTER XXVIII. THE TALE OF THE RAINBOW BRIDGE
 Felix, so far as my remembrance goes, never attained to success in the Ordeal of Bitter Apples. He gave up trying after awhile; and he also gave up praying about it, saying in bitterness of spirit that there was no use in praying when other fellows prayed against you out of spite. He and Peter remained on bad terms for some time, however.
 
 We were all of us too tired those nights to do any special praying. Sometimes I fear our “regular” prayers were slurred over, or mumbled in anything but reverent haste. October was a busy month on the hill farms. The apples had to be picked, and this work fell mainly to us children. We stayed home from school to do it. It was pleasant work and there was a great deal of fun in it; but it was hard, too, and our arms and backs ached roundly at night. In the mornings it was very delightful; in the afternoons tolerable; but in the evenings we lagged, and the laughter and zest of fresher hours were lacking.
@@ -4019,7 +4019,7 @@ The rainbow had faded out, and the darkness of the October dusk was falling.
 
 
 
-CHAPTER XXIX. THE SHADOW FEARED OF MAN
+### CHAPTER XXIX. THE SHADOW FEARED OF MAN
 We were all up early the next morning, dressing by candlelight. But early as it was we found the Story Girl in the kitchen when we went down, sitting on Rachel Ward’s blue chest and looking important.
 
 “What do you think?” she exclaimed. “Peter has the measles! He was dreadfully sick all night, and Uncle Roger had to go for the doctor. He was quite light-headed, and didn’t know any one. Of course he’s far too sick to be taken home, so his mother has come up to wait on him, and I’m to live over here until he is better.”
@@ -4175,7 +4175,7 @@ WE had no intention of going to bed for a good two hours yet. Instead, after dev
 
 
 
-CHAPTER XXX. A COMPOUND LETTER
+### CHAPTER XXX. A COMPOUND LETTER
 Once Peter was out of danger he recovered rapidly, but he found his convalescence rather tedious; and Aunt Olivia suggested to us one day that we write a “compound letter” to amuse him, until he could come to the window and talk to us from a safe distance. The idea appealed to us; and, the day being Saturday and the apples all picked, we betook ourselves to the orchard to compose our epistles, Cecily having first sent word by a convenient caller to Sara Ray, that she, too, might have a letter ready. Later, I, having at that time a mania for preserving all documents relating to our life in Carlisle, copied those letters in the blank pages at the back of my dream book. Hence I can reproduce them verbatim, with the bouquet they have retained through all the long years since they were penned in that autumnal orchard on the hill, with its fading leaves and frosted grasses, and the “mild, delightsome melancholy” of the late October day enfolding.
 
 CECILY’S LETTER
@@ -4293,7 +4293,7 @@ PETER’S LETTER
 
 
 
-CHAPTER XXXI. ON THE EDGE OF LIGHT AND DARK
+### CHAPTER XXXI. ON THE EDGE OF LIGHT AND DARK
 We celebrated the November day when Peter was permitted to rejoin us by a picnic in the orchard. Sara Ray was also allowed to come, under protest; and her joy over being among us once more was almost pathetic. She and Cecily cried in one another’s arms as if they had been parted for years.
 
 We had a beautiful day for our picnic. November dreamed that it was May. The air was soft and mellow, with pale, aerial mists in the valleys and over the leafless beeches on the western hill. The sere stubble fields brooded in glamour, and the sky was pearly blue. The leaves were still thick on the apple trees, though they were russet hued, and the after-growth of grass was richly green, unharmed as yet by the nipping frosts of previous nights. The wind made a sweet, drowsy murmur in the boughs, as of bees among apple blossoms.
@@ -4375,7 +4375,7 @@ She told us one of Hans Andersen’s most exquisite tales; and the magic of her 
 
 
 
-CHAPTER XXXII. THE OPENING OF THE BLUE CHEST
+### CHAPTER XXXII. THE OPENING OF THE BLUE CHEST
 November wakened from her dream of May in a bad temper. The day after the picnic a cold autumn rain set in, and we got up to find our world a drenched, wind-writhen place, with sodden fields and dour skies. The rain was weeping on the roof as if it were shedding the tears of old sorrows; the willow by the gate tossed its gaunt branches wildly, as if it were some passionate, spectral thing, wringing its fleshless hands in agony; the orchard was haggard and uncomely; nothing seemed the same except the staunch, trusty, old spruces.
 
 It was Friday, but we were not to begin going to school again until Monday, so we spent the day in the granary, sorting apples and hearing tales. In the evening the rain ceased, the wind came around to the northwest, freezing suddenly, and a chilly yellow sunset beyond the dark hills seemed to herald a brighter morrow.
