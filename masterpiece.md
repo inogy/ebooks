@@ -10,7 +10,7 @@
 
 ## 채털리 부인의 연인 Lady Chatterly’s Lover
   - E- Book : https://www.planetebook.com/free-ebooks/lady-chatterlys-lover.pdf
-
+       └ Playbook : https://play.google.com/books/reader?id=oDx4MAAAAEAJ&pg=GBS.PA1
   - 영상 : 네플릭스 채털리 부인의 연인
   - Script :  - 
   - etc 
